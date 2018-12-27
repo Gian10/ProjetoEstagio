@@ -1,0 +1,11 @@
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\bin\Debug\netcoreapp2.1\ProjetoEstagio.deps.json
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\bin\Debug\netcoreapp2.1\ProjetoEstagio.runtimeconfig.json
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\bin\Debug\netcoreapp2.1\ProjetoEstagio.runtimeconfig.dev.json
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\bin\Debug\netcoreapp2.1\ProjetoEstagio.dll
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\bin\Debug\netcoreapp2.1\ProjetoEstagio.pdb
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\obj\Debug\netcoreapp2.1\ProjetoEstagio.csprojAssemblyReference.cache
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\obj\Debug\netcoreapp2.1\ProjetoEstagio.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\obj\Debug\netcoreapp2.1\ProjetoEstagio.AssemblyInfoInputs.cache
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\obj\Debug\netcoreapp2.1\ProjetoEstagio.AssemblyInfo.cs
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\obj\Debug\netcoreapp2.1\ProjetoEstagio.dll
+C:\Users\Gian\source\repos\ProjetoEstagio\ProjetoEstagio\obj\Debug\netcoreapp2.1\ProjetoEstagio.pdb
